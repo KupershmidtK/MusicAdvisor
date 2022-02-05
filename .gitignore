@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Music Advisor/task/build/
+/Music Advisor/task/out/production/classes/
